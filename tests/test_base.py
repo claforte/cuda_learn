@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from cuda_learn.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "cuda_learn"
